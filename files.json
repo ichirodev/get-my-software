@@ -1,0 +1,20 @@
+{
+    "installationFiles": [
+        {
+            "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+            "fileName": "vscode.exe", "name": "Visual Studio Code"
+        },
+        {
+            "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+            "fileName": "steam.exe", "name": "Steam"
+        },
+        {
+            "url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=es-MX",
+            "fileName": "firefox.exe", "name": "Mozilla Firefox"
+        },
+        {
+            "url": "https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.26.1.13138.exe",
+            "fileName": "jetbrains-toolbox.exe", "name": "JetBrains Toolbox"
+        }
+    ]
+}
