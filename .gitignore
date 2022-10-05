@@ -1,2 +1,5 @@
+# Ignore installers
 *.exe
 *.msi
+# Ignore Python Cache
+__pycache__
